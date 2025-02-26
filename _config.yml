@@ -22,7 +22,7 @@ repository               : "https://github.com/FoxaMacTavish?tab=repositories" #
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png" #头像
+  avatar           : "https://s21.ax1x.com/2025/02/26/pE3mcWt.jpg" #头像
   name             : "Foxa MacTavish" #名字
   pronouns         : # example: "she/her"  
   bio              : "艾尔动漫协会/和音社/SKM室内乐团"
